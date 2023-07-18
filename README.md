@@ -24,4 +24,6 @@ https://drive.google.com/file/d/1wmykeV1j0ra2CMnP-5JokiP8Ls43FRyr/view?pli=1
 
 SMU Coding Bootcamp
 
+Starter code - https://github.com/coding-boot-camp/potential-enigma
+
 Screencastify (Chrome extension to screen record)
