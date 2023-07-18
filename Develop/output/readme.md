@@ -1,8 +1,8 @@
-# Test3
-  ![license](https://img.shields.io/badge/license-GPL-red)
+# Read Me Generator
+  ![license](https://img.shields.io/badge/license-MIT-red)
 
   ## Description
-  Desc3 
+  Description 
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -13,22 +13,22 @@
   6. [Questions](#questions)
 
   ## Installation
-  Insta3
+  Installation
 
   ## Usage
-  Usage3
+  Usage
 
   ## License
-  ![license](https://img.shields.io/badge/license-GPL-red) 
+  ![license](https://img.shields.io/badge/license-MIT-red) 
 
-  This project uses the following licenses: GPL
+  This project uses the following licenses: MIT
 
 
   ## Contributing
-  Contr3
+  Contribution
 
   ## Tests
-  Test3
+  Test
 
   ## Questions
   For additional questions, please reach out via my email address: 
